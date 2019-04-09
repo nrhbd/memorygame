@@ -1,0 +1,44 @@
+body {
+    background-color: #eff;
+}
+#mainFrame {
+    margin:auto;
+    padding-top:10px;
+}
+
+.imageBoard {
+    width:40%;
+    margin:auto;
+}
+
+.penguinImagesFramesStyle {
+    display:inline-table;
+    margin-left: 30px;
+    padding-left:20px;
+    width:20%;
+    float:none;
+    margin:auto;
+}
+.penguinImagesFramesStyle img{
+    clear:both;
+    border-width:2px;
+    border-style: solid;
+    
+}
+
+.total--turns {
+    background-color: #ff000;
+    color:green;
+    margin:auto;
+    width:60%
+    ;
+    font-size: 39px;
+}
+.current--turns {
+     background-color: #ff000;
+    color:green;
+    margin:auto;
+    width:60%
+    ;
+    font-size: 39px;
+}
